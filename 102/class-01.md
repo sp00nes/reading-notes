@@ -1,1 +1,1 @@
-### Class 01 Reading Notes
+# Class 01 Reading Notes *(9/19/22)*
