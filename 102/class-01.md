@@ -5,4 +5,3 @@ A growth mindset means understanding that you can learn and become smarter if yo
 1. Remember that knowledge is learned, not inherently known
 2. Remember that the most brilliant programmers once knew less than you
 3. Remember to take a break when things get confusing and try again
-
