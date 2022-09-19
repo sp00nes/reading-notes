@@ -1,6 +1,6 @@
 # Code Fellow Reading Notes
 
-*Reading notes from code fellows lessons.*
+*My name is Martin Hansen. I grew up in the Edmonds WA area and have recently moved to Middleton, ID. I have loved computer science from a young age and can't wait to continue learning new skills!*
 
 
 *[My github page!](https://github.com/sp00nes)*
