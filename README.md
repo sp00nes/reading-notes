@@ -1,4 +1,7 @@
-# reading-notes
+# Reading Notes
+
 My reading notes journal for Code Fellows
 
-[Class 1 - Growth Mindset and Markdown](102/class-01.md)
+## 102 Notes
+
+[Growth Mindset and Markdown Class 1](102/class-01.md)
