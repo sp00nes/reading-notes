@@ -7,3 +7,5 @@
 
 ## 102
 - [Class 1 - Growth Mindset and Markdown (9/19/21)](102/class-01.md)
+:shipit:
+
