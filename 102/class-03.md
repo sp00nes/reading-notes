@@ -1,4 +1,4 @@
-# Class 01 Reading Notes *(9/20/22)*
+# Class 03 Reading Notes *(9/20/22)*
 
 ## Git
 
