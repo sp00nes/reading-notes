@@ -1,5 +1,7 @@
 # Class 01 Reading Notes *(9/19/22)*
 
+[*back*](../README.md)
+
 ## Growth Mindset
 
 **A growth mindset means understanding that you can learn and become smarter if you just put your time and energy into working to understand what you are attempting to learn.**

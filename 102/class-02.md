@@ -1,5 +1,7 @@
 # Class 02 reading notes (9/19/22)
 
+[*back*](../README.md)
+
 ## Text Editors and IDE's
 
 Text editors are programs that you either download to your computer or can access online. They allow you to write text and save files however you would like. They might also highlight when you miswrite something or if you could do it in a way the language wants a bit more. IDE's (Integrated Development Environment) do a lot more they manage files, debug and compile all in one.

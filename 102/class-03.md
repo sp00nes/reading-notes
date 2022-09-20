@@ -1,5 +1,7 @@
 # Class 03 Reading Notes *(9/20/22)*
 
+[*back*](../README.md)
+
 ## Git
 
 Git is a version control system. it holds on to a history of changes that you make to your files and saves them in a timeline as a new version with each "commit" you make.
@@ -19,3 +21,5 @@ Repository is a folder or directory that is tracked by Git. you can tell git to 
 `git commit -m "<message>"` Commits changes to git with a message.
 
 `git push origin <branch>` pushes changes to Github repository
+
+`rm -rf <filename>` Deletes File

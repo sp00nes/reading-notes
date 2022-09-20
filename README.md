@@ -9,7 +9,7 @@
 - [Class 1 - Growth Mindset and Markdown (9/19/21)](102/class-01.md)
 - [Class 2 - Text Editors and Terminal (9/19/21)](102/class-02.md)
 - [Class 3 - Git (9/20/21)](102/class-03.md)
-- [Class 4 - ... (9/20/21)](102/class-04.md)
+- [Class 4 - HTML (9/20/21)](102/class-04.md)
 - [Class 5 - ... (9/../21)](102/class-05.md)
 - [Class 6 - ... (9/../21)](102/class-06.md)
 - [Class 7 - ... (9/../21)](102/class-07.md)
