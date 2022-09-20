@@ -2,7 +2,8 @@
 
 ## Growth Mindset
 
-**A growth mindset means understanding that you can learn and become smarter if you just put your time and energy into working to understand what you are attempting to learn.** 
+**A growth mindset means understanding that you can learn and become smarter if you just put your time and energy into working to understand what you are attempting to learn.**
+
 1. Remember that knowledge is learned, not inherently known
 2. Remember that the most brilliant programmers once knew less than you
 3. Remember to take a break when things get confusing and try again
@@ -13,16 +14,16 @@ Markdown is a way to organize and stylize text in a document. It allows you to d
 
 ### Basics
 
-# Headder 1
+# Header 1
 
-## Headder 2
+## Header 2
 
 ### Header 3
 
-```
-# Headder 1
+``` md040
+# Header 1
 
-## Headder 2
+## Header 2
 
 ### Header 3
 ```
