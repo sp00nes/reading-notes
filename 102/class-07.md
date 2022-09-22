@@ -1,4 +1,4 @@
-# Class 07 Reading Notes *(9/../22)*
+# Class 07 Reading Notes *(9/22/22)*
 
 [*back*](../README.md)
 
