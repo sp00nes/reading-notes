@@ -12,7 +12,7 @@
 - [Class 4 - HTML (9/20/22)](102/class-04.md)
 - [Class 5 - CSS (9/21/22)](102/class-05.md)
 - [Class 6 - JavaScript (9/21/22)](102/class-06.md)
-- [Class 7 - ... (9/../22)](102/class-07.md)
+- [Class 7 - JS Functions (9/22/22)](102/class-07.md)
 - [Class 8 - ... (9/../22)](102/class-08.md)
 
 ## 201
