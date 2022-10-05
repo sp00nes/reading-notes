@@ -16,3 +16,6 @@
 - [Class 8 - Operators and Loops (9/22/22)](102/class-08.md)
 
 ## 201
+
+- [Class 1 - Growth Mindset and Markdown (10/4/22)](201/class-01.md)
+- [Class 2 - Growth Mindset and Markdown (10/4/22)](201/class-02.md)
