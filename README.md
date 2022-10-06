@@ -17,5 +17,7 @@
 
 ## 201
 
-- [Class 1 - Growth Mindset and Markdown (10/4/22)](201/class-01.md)
-- [Class 2 - Growth Mindset and Markdown (10/4/22)](201/class-02.md)
+- [Class 1 -  (10/4/22)](201/class-01.md)
+- [Class 2 -  (10/4/22)](201/class-02.md)
+- [Class 3 -  (10/5/22)](201/class-03.md)
+- [Class 4 -  (10/5/22)](201/class-04.md)
