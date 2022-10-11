@@ -1,8 +1,8 @@
-# Class 03 Reading Notes *(10/5/22)*
+# Class 05 Reading Notes *(10/5/22)*
 
 [*back*](../README.md)
 
-## Using Images In HTML.
+## Using Images In HTML
 
 1. when visually impaired software needs to read aloud what the image is.
 2. by adding detailed alt text

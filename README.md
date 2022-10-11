@@ -22,3 +22,5 @@
 - [Class 3 -  (10/5/22)](201/class-03.md)
 - [Class 4 -  (10/5/22)](201/class-04.md)
 - [class 5 -  (10/7/22)](201/class-05.md)
+- [class 6 -  (10/10/22)](201/class-06.md)
+- [class 7 -  (10/11/22)](201/class-07.md)
