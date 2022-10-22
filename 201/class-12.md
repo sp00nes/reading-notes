@@ -1,4 +1,4 @@
-# Class 013 Reading Notes *(10/19/22)*
+# Class 012 Reading Notes *(10/19/22)*
 
 [*back*](../README.md)
 
