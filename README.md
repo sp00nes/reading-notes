@@ -4,7 +4,7 @@
 
 *[My github page!](https://github.com/sp00nes)*
 
-## 102
+## 102 - Intro to Software Development
 
 - [Class 1 - Growth Mindset and Markdown (9/19/22)](102/class-01.md)
 - [Class 2 - Text Editors and Terminal (9/19/22)](102/class-02.md)
@@ -15,7 +15,7 @@
 - [Class 7 - JS Functions (9/22/22)](102/class-07.md)
 - [Class 8 - Operators and Loops (9/22/22)](102/class-08.md)
 
-## 201
+## 201 - Foundations of Software Development
 
 - [Class 1 -  (10/4/22)](201/class-01.md)
 - [Class 2 -  (10/4/22)](201/class-02.md)
@@ -32,3 +32,9 @@
 - [class 13 -  (10/19/22)](201/class-13.md)
 - [class 14 -  (10/20/22)](201/class-14.md)
 - [class Psych Safety - (10/21/22)](201/class-PS.md)
+
+## 301 - Intermediate Software Development
+
+- [Class 1 -  (11/6/22)](301/class-01.md)
+
+## 401 - Advanced Software Development
