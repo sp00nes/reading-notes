@@ -36,5 +36,9 @@
 ## 301 - Intermediate Software Development
 
 - [Class 1 -  (11/6/22)](301/class-01.md)
+- [Class 2 -  (11/7/22)](301/class-02.md)
+- [Class 3 -  (11/8/22)](301/class-03.md)
+- [Class 4 -  (11/9/22)](301/class-04.md)
+- [Class 5 -  (11/10/22)](301/class-05.md)
 
 ## 401 - Advanced Software Development
