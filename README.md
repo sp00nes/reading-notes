@@ -40,5 +40,10 @@
 - [Class 3 -  (11/8/22)](301/class-03.md)
 - [Class 4 -  (11/9/22)](301/class-04.md)
 - [Class 5 -  (11/10/22)](301/class-05.md)
+- [Class 6 -  (11/13/22)](301/class-06.md)
+- [Class 7 -  (11/14/22)](301/class-07.md)
+- [Class 8 -  (11/15/22)](301/class-08.md)
+- [Class 9 -  (11/16/22)](301/class-09.md)
+- [Class 10 -  (11/17/22)](301/class-10.md)
 
 ## 401 - Advanced Software Development
