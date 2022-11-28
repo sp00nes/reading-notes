@@ -12,7 +12,7 @@
 - Best fit for Hierarchical Storage | Best fit for Non- Hierarchical Storage
 - Vertically Scalable | Horizontally Scalable
 
-2. Relational. Table of customers an their information
+2. Relational. Table of customers an their information.
 
 3. What kind of data is a good fit a NoSQL database? Non-relational. information of books with different descriptions, titles, dates, and images.
 

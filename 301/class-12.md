@@ -5,6 +5,7 @@
 ## Status Codes Based On REST Methods
 
 1. status codes
+
 100: Wrong information from the client side
 200: Success codes
 300: requested is not available
